@@ -8,6 +8,7 @@ const config = require('config');
 //user model
 const User = require('../../models/User');
 
+
 //@route   POST api/users
 //@desc    Register user
 //access   public
